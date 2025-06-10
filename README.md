@@ -12,12 +12,6 @@ Welcome to the official repository of the Information Technology Department at *
 - APIs and microservices
 - Legacy system integration
 
-### Infrastructure and DevOps
-- Cloud and on-premise architecture
-- Deployment automation
-- Monitoring and observability
-- Database management
-
 ### Technological Innovation
 - Research and development of new technologies
 - Artificial intelligence solution implementation
@@ -41,26 +35,6 @@ Our repositories are organized following development best practices:
 - **Libraries and Tools:** Reusable components and internal utilities
 - **Automation:** DevOps scripts and tools
 - **Documentation:** Technical and architectural guides
-
-## Standards and Best Practices
-
-### Development
-- Agile methodology implementation (Scrum/Kanban)
-- Mandatory code review for all contributions
-- Unit and integration testing
-- Complete technical documentation
-
-### Security
-- OWASP Top 10 implementation
-- Static code analysis
-- Secure secrets and credentials management
-- Regular security audits
-
-### Quality
-- Consistent coding standards
-- Continuous integration and continuous delivery (CI/CD)
-- Proactive application monitoring
-- Performance and availability metrics
 
 ## Collaboration
 
